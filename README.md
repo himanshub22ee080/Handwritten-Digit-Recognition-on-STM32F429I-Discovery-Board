@@ -6,4 +6,7 @@
 ![Alt Text](https://github.com/himanshub22ee080/Handwritten-Digit-Recognition-on-STM32F429I-Discovery-Board/blob/main/images/WhatsApp%20Image%202025-04-23%20at%2020.41.37_1509aa17.jpg>)
 
 images/WhatsApp Image 2025-04-23 at 20.41.37_1509aa17.jpg
-![Alt Text](https://raw.githubusercontent.com/<username>/<repo>/<branch>/<https://github.com/himanshub22ee080/Handwritten-Digit-Recognition-on-STM32F429I-Discovery-Board/blob/main/images/WhatsApp%20Image%202025-04-23%20at%2020.41.37_1509aa17.jpg>)
+![Alt Text](https://raw.githubusercontent.com/<himanshub22ee080/>/<Handwritten-Digit-Recognition-on-STM32F429I-Discovery-Board>/<main>/<images>/<WhatsApp Image 2025-04-23 at 20.41.37_1509aa17.jpg>)
+![Alt Text](
+WhatsApp Image 2025-04-23 at 20.41.37_1509aa17.jpg)
+
